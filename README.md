@@ -10,7 +10,7 @@ One wallet, 41+ models, zero API keys.
 
 <img src="https://img.shields.io/badge/🚀_92%25_Cost_Savings-success?style=for-the-badge" alt="92% savings">&nbsp;
 <img src="https://img.shields.io/badge/🔑_Zero_API_Keys-blue?style=for-the-badge" alt="No API keys">&nbsp;
-<img src="https://img.shields.io/badge/🤖_41+_Models-purple?style=for-the-badge" alt="41+ models">&nbsp;
+<img src="https://img.shields.io/badge/🤖_Personalized-purple?style=for-the-badge" alt="41+ models">&nbsp;
 <img src="https://img.shields.io/badge/💰_Non--Custodial-orange?style=for-the-badge" alt="Non-custodial">&nbsp;
 <img src="https://img.shields.io/badge/⚡_Fully_Async-yellow?style=for-the-badge" alt="Fast routing">
 
